@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Avatar",
+    "releaseDate": "10-12-2009",
+    "genre": "Action, Adventure, Fantasy",
+    "description": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "originalLang": "English, Spanish",
+    "poster": "https://mr.comingsoon.it/imgdb/locandine/big/846.jpg"
+  },
+  {
+    "title": "Interstellar",
+    "releaseDate": "5-11-2014",
+    "genre": "Sci-Fi, Adventure, Drama",
+    "description": "In 2067, as humanity is facing extinction following a global famine caused by ecocide, it has since abandoned scientific pursuits such as space exploration.[8] As a result, ex-NASA pilot Joseph Cooper is now forced to work as a farmer with his son Tom, daughter Murph and father-in-law Donald. ",
+    "originalLang": "English",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
+  },
+  {
+    "title": "Her",
+    "releaseDate": "12-10-2013",
+    "genre": "Sci-Fi, Drama",
+    "description": "In near-future Los Angeles, Theodore Twombly is a lonely, introverted man who works for a business that has professional writers compose letters for people who are unable to write letters of a personal nature themselves. ",
+    "originalLang": "English",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/44/Her2013Poster.jpg"
+  }
+]
